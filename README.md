@@ -9,7 +9,7 @@
   <a href="https://twitter.com/koistya"><img src="https://img.shields.io/twitter/follow/koistya.svg?style=social&label=Follow&maxAge=3600" height="20"></a>
 </h1>
 
-## Features
+## Featuress
 
 - Monorepo project structure powered by Yarn v2 with PnP
 - GraphQL API using code-first development approach (TypeScript, GraphQL.js, Knex, PostgreSQL)
